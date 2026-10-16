@@ -1,0 +1,16 @@
+{
+  "name": "UNO 3D Modern",
+  "short_name": "UNO 3D",
+  "description": "Website minigame kartu UNO dengan desain 3D modern, interaktif, responsif, dan ringan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
